@@ -1,0 +1,189 @@
+* {
+    padding: 0;
+    margin: 2px;
+}
+
+#top {
+    background-color: brown;
+    margin-top: 10px;
+    height: 80px;
+}
+
+.main_label {
+    color: rgb(235, 223, 8);
+    text-align: left;
+    
+    /* margin-left: 20px; */
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer {
+    background-color: rgb(108, 105, 105);
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+
+.textbox {
+    padding: 6px 32px;
+    text-align: center;
+    float: calc(center);
+    /* margin-left: 500px; */
+}
+
+.search {
+    background-image: url(search-black.png);
+    padding: 15px;
+    /* margin-left: 10px; */
+    /* margin-right: 400px; */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.search:hover {
+    /* padding: 20px; */
+    background-color: yellow;
+}
+
+
+.cartbtn,
+.optionbtn,
+.shopbtn {
+    /* margin-left: 250px; */
+    border-radius: 100%;
+    padding: 21px;
+    margin: 5px;
+    margin-right: 10px;
+    /* background-image: url(shop-black.png); */
+    background-position: center;
+    background-repeat: no-repeat;
+    float: right;
+}
+
+.shopbtn {
+    background-image: url(shop-black.png);
+
+}
+
+.cartbtn {
+    background-image: url(cart.jpg);
+    background-size: cover;
+    float: right;
+}
+
+.optionbtn {
+    background-image: url(bullets-black.png);
+    /* background-size: 30px; */
+    float: right;
+}
+
+body {
+    /* background-image: url(main_bk.jpg); */
+    /* background-position: fixed; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+
+.btn_item1 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(men1.jpg);
+    background-size: contain;
+}
+
+.btn_item2 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(men2.jpg);
+    background-size: contain;
+}
+
+.btn_item3 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(women1.jpg);
+    background-size: contain;
+}
+
+.btn_item4 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(women2.jpg);
+    background-size: contain;
+}
+
+.btn_item5 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(laptop1.jpg);
+    background-size: contain;
+}
+
+.btn_item6 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(women3.jpg);
+    background-size: contain;
+}
+
+.btn_item7 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(men3.png);
+    background-size: contain;
+}
+
+.btn_item8 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(laptop2.jpg);
+    background-size: contain;
+}
+
+.btn_item9 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(bag2.jpg);
+    background-size: contain;
+}
+
+.btn_item10 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(bag1\ copy.jpg);
+    background-size: contain;
+}
+
+.label_shop,
+.label_cart,
+.label_option {
+    text-align: right;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.label_shop {
+    margin-left: 1350px;
+}
+
+.shopbtn:hover {
+    /* padding: 15px; */
+    background-color: yellow;
+}
+
+.Advertisement_img {
+    height: 200px;
+    width: 700px;
+    margin: 30px;
+}
