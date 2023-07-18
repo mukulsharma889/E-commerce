@@ -1,0 +1,99 @@
+header {
+    background-color: rgb(203, 226, 156);
+    text-align: center;
+    font-size: 28px;
+    font-weight: bolder;
+    background-position: absolute;
+}
+.cart_btn {
+    float: right;
+    padding: 14px;
+    margin-right: 20px;
+    background-image: url(cart.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.btn_item {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+}
+.btn_item1 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child1.avif);
+    background-size: contain;
+}
+
+.btn_item2 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child2.jpg);
+    background-size: contain;
+}
+
+.btn_item3 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child3.jpg);
+    background-size: contain;
+}
+
+.btn_item4 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child4.jpg);
+    background-size: contain;
+}
+
+.btn_item5 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child5.jpg);
+    background-size: contain;
+}
+
+.btn_item6 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child6.jpg);
+    background-size: contain;
+}
+
+.btn_item7 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child7.avif);
+    background-size: contain;
+}
+
+.btn_item8 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child8.avif);
+    background-size: contain;
+}
+
+.btn_item9 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child9.webp);
+    background-size: contain;
+}
+
+.btn_item10 {
+    padding: 100px;
+    margin: 45px;
+    background-color: aquamarine;
+    background-image: url(child10.webp);
+    background-size: contain;
+}
